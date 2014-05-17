@@ -1,15 +1,12 @@
 Dotfiles
-
 ===============
 
 Description
-
 --------------
 
 Store Linux confuration files on github to allow confugration to be accessed remotely from anywhere
 
 Instructions
-
 --------------
 
 clone repo into home directory (this path is expected in setup.sh). Then run setup.sh
